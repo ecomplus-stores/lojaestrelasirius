@@ -29,6 +29,20 @@
       "page": 1
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/38821-banner-menor-01.png"
+        },
+        {
+          "img": "/img/uploads/38821-banner-menor-02.png"
+        },
+        {
+          "img": "/img/uploads/38821-banner-menor-03.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
