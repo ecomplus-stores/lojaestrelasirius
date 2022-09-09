@@ -1,5 +1,5 @@
 {
-  "css": ".footer {\n    background: #F2FFED;\n}",
+  "css": ".footer {\n    background: #F2FFED;\n}\n.products-carousel, .products-carousel__title span, .products-carousel__title a {\n    background: #FFE9D9;\n}",
   "html_head": "",
   "html_body": ""
 }
