@@ -19,6 +19,9 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "banners-grid"
     }
   ]
 }
