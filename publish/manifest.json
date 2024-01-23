@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0ee1800c152f7b1e7b1b3f83b6744949.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.85b3a1047f6e8a28e0d9f74c14fb7ac5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9670d6c37d6567e572bd1108bf997834.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.16dc384e9341d1769eb837bcf7d3ef02.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f9216adb5df12b94f0287bff3d11ce64.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja Estrela Sirius | Produtos Naturais e Acessórios",
+  "short_name": "lojaestrelasirius",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojaestrelasirius",
+  "background_color": "#ffffff",
+  "theme_color": "#244a11"
+}
